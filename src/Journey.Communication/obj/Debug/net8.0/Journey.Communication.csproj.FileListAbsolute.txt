@@ -9,3 +9,15 @@ C:\Code\CSharp\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Commun
 C:\Code\CSharp\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
 C:\Code\CSharp\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
 C:\Code\CSharp\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
+C:\csharp-nlw-journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\csharp-nlw-journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\csharp-nlw-journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.sourcelink.json
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll

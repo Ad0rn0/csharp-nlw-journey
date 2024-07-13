@@ -10,3 +10,16 @@ C:\Code\CSharp\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journe
 C:\Code\CSharp\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 C:\Code\CSharp\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
 C:\Code\CSharp\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\csharp-nlw-journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\csharp-nlw-journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\csharp-nlw-journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll

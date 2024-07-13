@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZqFVfTuj325xEu4c/+XQXL5S2+7wnB2bM+pc4spaj3BHmNdxcPYhEUHJjE1NUJNZ3nsiQxwkhAnoLjfdFas6jA==",
+  "dgSpecHash": "Gee43RQ/UNS0I50w1Uy0ywvIHwS85mHmtoU19fHv3xXuL6dcErGee8E4O8vh40t4xHjDh0y1LWA5HDoewiBa4g==",
   "success": true,
-  "projectFilePath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj",
+  "projectFilePath": "C:\\csharp-nlw-journey\\src\\Journey.Exception\\Journey.Exception.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\CSharp\\Journey\\src\\Journey.Application\\Journey.Application.csproj": {}
+    "C:\\csharp-nlw-journey\\src\\Journey.Application\\Journey.Application.csproj": {}
   },
   "projects": {
-    "C:\\Code\\CSharp\\Journey\\src\\Journey.Application\\Journey.Application.csproj": {
+    "C:\\csharp-nlw-journey\\src\\Journey.Application\\Journey.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\CSharp\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
+        "projectUniqueName": "C:\\csharp-nlw-journey\\src\\Journey.Application\\Journey.Application.csproj",
         "projectName": "Journey.Application",
-        "projectPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Application\\Journey.Application.csproj",
-        "packagesPath": "C:\\Users\\te-ti\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Application\\obj\\",
+        "projectPath": "C:\\csharp-nlw-journey\\src\\Journey.Application\\Journey.Application.csproj",
+        "packagesPath": "C:\\Users\\tasilva\\.nuget\\packages\\",
+        "outputPath": "C:\\csharp-nlw-journey\\src\\Journey.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\te-ti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,20 +26,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Code\\CSharp\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
-                "projectPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj"
+              "C:\\csharp-nlw-journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
+                "projectPath": "C:\\csharp-nlw-journey\\src\\Journey.Communication\\Journey.Communication.csproj"
               },
-              "C:\\Code\\CSharp\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
-                "projectPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj"
+              "C:\\csharp-nlw-journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
+                "projectPath": "C:\\csharp-nlw-journey\\src\\Journey.Exception\\Journey.Exception.csproj"
               },
-              "C:\\Code\\CSharp\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
-                "projectPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj"
+              "C:\\csharp-nlw-journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
+                "projectPath": "C:\\csharp-nlw-journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj"
               }
             }
           }
@@ -44,6 +49,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,21 +75,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\CSharp\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
+    "C:\\csharp-nlw-journey\\src\\Journey.Communication\\Journey.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\CSharp\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
+        "projectUniqueName": "C:\\csharp-nlw-journey\\src\\Journey.Communication\\Journey.Communication.csproj",
         "projectName": "Journey.Communication",
-        "projectPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
-        "packagesPath": "C:\\Users\\te-ti\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Communication\\obj\\",
+        "projectPath": "C:\\csharp-nlw-journey\\src\\Journey.Communication\\Journey.Communication.csproj",
+        "packagesPath": "C:\\Users\\tasilva\\.nuget\\packages\\",
+        "outputPath": "C:\\csharp-nlw-journey\\src\\Journey.Communication\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\te-ti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,6 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -99,6 +114,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -120,21 +140,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\CSharp\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
+    "C:\\csharp-nlw-journey\\src\\Journey.Exception\\Journey.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\CSharp\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj",
+        "projectUniqueName": "C:\\csharp-nlw-journey\\src\\Journey.Exception\\Journey.Exception.csproj",
         "projectName": "Journey.Exception",
-        "projectPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Exception\\Journey.Exception.csproj",
-        "packagesPath": "C:\\Users\\te-ti\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Exception\\obj\\",
+        "projectPath": "C:\\csharp-nlw-journey\\src\\Journey.Exception\\Journey.Exception.csproj",
+        "packagesPath": "C:\\Users\\tasilva\\.nuget\\packages\\",
+        "outputPath": "C:\\csharp-nlw-journey\\src\\Journey.Exception\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\te-ti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,6 +166,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -154,6 +179,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -175,21 +205,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Code\\CSharp\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
+    "C:\\csharp-nlw-journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\CSharp\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+        "projectUniqueName": "C:\\csharp-nlw-journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
         "projectName": "Journey.Infrastructure",
-        "projectPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\te-ti\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Infrastructure\\obj\\",
+        "projectPath": "C:\\csharp-nlw-journey\\src\\Journey.Infrastructure\\Journey.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\tasilva\\.nuget\\packages\\",
+        "outputPath": "C:\\csharp-nlw-journey\\src\\Journey.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\te-ti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tasilva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -197,6 +231,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -209,6 +244,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -240,7 +280,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.107/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
