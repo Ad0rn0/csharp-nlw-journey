@@ -21,3 +21,4 @@ C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communi
 C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
 C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
 C:\csharp-nlw-journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
+C:\Code\CSharp\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.sourcelink.json

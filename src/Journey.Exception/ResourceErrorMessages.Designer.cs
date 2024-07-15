@@ -61,6 +61,24 @@ namespace Journey.Exception {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Activity not found..
+        /// </summary>
+        public static string ACTIVITY_NOT_FOUND {
+            get {
+                return ResourceManager.GetString("ACTIVITY_NOT_FOUND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The date you selected for the activity is not within your travel period.
+        /// </summary>
+        public static string DATE_NOTE_WITHIN_TRAVEL_PARIOD {
+            get {
+                return ResourceManager.GetString("DATE_NOTE_WITHIN_TRAVEL_PARIOD", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to The date of the trip must be later then today..
         /// </summary>
         public static string DATE_TRIP_MUST_BE_LATER_TODAY {

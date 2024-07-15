@@ -138,3 +138,5 @@ C:\csharp-nlw-journey\src\Journey.Api\obj\Debug\net8.0\refint\Journey.Api.dll
 C:\csharp-nlw-journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.pdb
 C:\csharp-nlw-journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.genruntimeconfig.cache
 C:\csharp-nlw-journey\src\Journey.Api\obj\Debug\net8.0\ref\Journey.Api.dll
+C:\Code\CSharp\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.sourcelink.json
+C:\Code\CSharp\Journey\src\Journey.Api\bin\Debug\net8.0\FluentValidation.dll

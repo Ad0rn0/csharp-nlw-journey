@@ -23,3 +23,4 @@ C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infras
 C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
 C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 C:\csharp-nlw-journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Code\CSharp\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.sourcelink.json

@@ -17,6 +17,14 @@
           "Journey.Api.dll": {}
         }
       },
+      "FluentValidation/11.9.2": {
+        "runtime": {
+          "lib/net8.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.9.2.0"
+          }
+        }
+      },
       "Microsoft.Data.Sqlite.Core/8.0.7": {
         "dependencies": {
           "SQLitePCLRaw.core": "2.1.6"
@@ -328,16 +336,11 @@
       "System.Text.Json/8.0.4": {
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0"
-        },
-        "runtime": {
-          "lib/net8.0/System.Text.Json.dll": {
-            "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.724.31311"
-          }
         }
       },
       "Journey.Application/1.0.0": {
         "dependencies": {
+          "FluentValidation": "11.9.2",
           "Journey.Communication": "1.0.0",
           "Journey.Exception": "1.0.0",
           "Journey.Infrastructure": "1.0.0"
@@ -372,6 +375,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/11.9.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XeHp9LvFvu1fsQ/NvDCymV02GOCB1nz7ZUhfpI3uMhCcHTkV1K5bMkv+Nc/kuNYyAsX5+5bcmUanIEMd5QN+Eg==",
+      "path": "fluentvalidation/11.9.2",
+      "hashPath": "fluentvalidation.11.9.2.nupkg.sha512"
     },
     "Microsoft.Data.Sqlite.Core/8.0.7": {
       "type": "package",

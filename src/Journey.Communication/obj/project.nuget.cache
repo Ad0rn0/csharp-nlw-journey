@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jDNJ62RvN+i2HukFe/NyP5nEq/XKT8VsssTgDmphBBFGll3PQaQzTNuXjfW8ID2UAWu9aQu7CvMij9eS3rwDoQ==",
+  "dgSpecHash": "EXoWHR8TsuCQrRdU1vF7N/X/tPJx/th0+auYgoLQ6RLs4BLHTQMwdZjx9KFAeIjmJTUQbyA5ZgiUSN96v4AdOg==",
   "success": true,
-  "projectFilePath": "C:\\csharp-nlw-journey\\src\\Journey.Communication\\Journey.Communication.csproj",
+  "projectFilePath": "C:\\Code\\CSharp\\Journey\\src\\Journey.Communication\\Journey.Communication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

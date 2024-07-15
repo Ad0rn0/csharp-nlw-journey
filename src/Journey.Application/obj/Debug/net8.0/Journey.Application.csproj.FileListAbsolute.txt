@@ -37,3 +37,4 @@ C:\csharp-nlw-journey\src\Journey.Application\obj\Debug\net8.0\Journey.Applicati
 C:\csharp-nlw-journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
 C:\csharp-nlw-journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
 C:\csharp-nlw-journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
+C:\Code\CSharp\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.sourcelink.json
